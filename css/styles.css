@@ -1,1 +1,4 @@
-
+#intro {
+               background-image: url('/img/intro.jpg');
+               height: 400px;
+}
