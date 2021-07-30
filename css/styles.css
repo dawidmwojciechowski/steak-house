@@ -1,3 +1,14 @@
+body {
+    background-color: black;
+}
+
+.divider {
+    background-color: #eee;
+}
+
+
+
+
 #intro {
                background-image: url('/img/intro.jpg');
                height: 400px;
