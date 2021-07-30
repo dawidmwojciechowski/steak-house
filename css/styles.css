@@ -19,3 +19,8 @@ body {
     height: 600px;
     }
 }
+
+#book {
+    background-image: url('/img/book.jpg');
+    height: 300px;
+}
